@@ -13,3 +13,9 @@
 ![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/1077f5ae-5676-4321-9b04-d0fd77be423c)
 ![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/db9ef635-8f38-4c00-94c2-8a5853d214c4)
 ![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/b594780a-6261-4ca4-8414-fec4078a9de1)
+2024年6月28日14:27:44
+![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/70d85045-ee38-4b92-a4fe-ac4889b09c15)
+![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/ec8eded1-345d-49cd-9c6f-1bec2ff21b00)
+![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/a4708b6c-606f-46a7-ac2a-b0a0526e0105)
+![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/ba3b2dae-7b7a-4ee9-91bb-17241d9c5b24)
+![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/79afb9e8-bdb1-4205-8a37-790d2120b17b)
