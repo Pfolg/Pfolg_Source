@@ -19,3 +19,5 @@
 ![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/a4708b6c-606f-46a7-ac2a-b0a0526e0105)
 ![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/ba3b2dae-7b7a-4ee9-91bb-17241d9c5b24)
 ![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/79afb9e8-bdb1-4205-8a37-790d2120b17b)
+2024年6月30日15:40:59
+![0a377774d7c1da86f9b9db9ee56ab307](https://github.com/Pfolg/CLSS_1022/assets/166471137/9f7d32ce-2c3b-45cd-bfe7-40b54a4da851)
