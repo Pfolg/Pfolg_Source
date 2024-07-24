@@ -23,4 +23,6 @@
 ![0a377774d7c1da86f9b9db9ee56ab307](https://github.com/Pfolg/CLSS_1022/assets/166471137/9f7d32ce-2c3b-45cd-bfe7-40b54a4da851)
 24年7月2日15:37:48
 ![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/22786ffa-1c7e-49d6-9340-06d4dcb7df7c)
+2024年7月24日18:16:25
+![旅行](https://github.com/user-attachments/assets/06cd01a6-f597-4411-bf32-d1a3a5f21a6b)
 
