@@ -5,11 +5,11 @@
 **演示环境：** Windows 10 x64 VMware虚拟机
 
 # 准备工作
-## 下载vs
+## 下载 Visual Studio 2022
 下载链接：
 https://visualstudio.microsoft.com/zh-hans/
 
-vs还可以在store里面下载到
+ Visual Studio 2022还可以在store里面下载到
 
 ![image](https://github.com/user-attachments/assets/11988cff-40fe-4fdc-ba92-cbd41fb32f4b)
 
