@@ -53,7 +53,7 @@ https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-downl
 
 * 3 
 
-    **除了这两个，其他全部取消勾选，** 下方可以更改安装
+    **除了这两个，其他全部取消勾选，** 下方可以更改安装路径
 
   ![image-6](https://github.com/user-attachments/assets/46f03bdc-22dd-442b-937f-5166806a85ef)
 
