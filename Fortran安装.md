@@ -58,7 +58,8 @@ https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-downl
   ![image-6](https://github.com/user-attachments/assets/46f03bdc-22dd-442b-937f-5166806a85ef)
 
 * 4 
-    集成到Visual Studio 2022
+
+  集成到Visual Studio 2022
 
     ![image-7](https://github.com/user-attachments/assets/8a701a95-023b-4855-af39-964feb164561)
 
