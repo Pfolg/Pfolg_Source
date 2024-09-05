@@ -70,4 +70,13 @@ https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-downl
 
     ![image-8](https://github.com/user-attachments/assets/5d057582-84de-4574-bb1c-a9b78c8e8c0e)
 
+* 6
+
+    最后点击finish
 ## Intel® HPC Toolkit
+
+与上面类似，这里这样选择
+
+![image-9](https://github.com/user-attachments/assets/a347ffcf-6a9f-4a62-b1a5-f0949d978722)
+
+
