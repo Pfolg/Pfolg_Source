@@ -111,5 +111,7 @@ https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-downl
 
 
 **本教程到此结束**
+
 参考视频：
+
  https://www.bilibili.com/video/BV1oh411o7AT/?spm_id_from=..search-card.all.click
