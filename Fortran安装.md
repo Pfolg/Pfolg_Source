@@ -30,7 +30,7 @@ https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-downl
 # 安装
 ![image-1](https://github.com/user-attachments/assets/6512b517-a7f3-47d6-9ca2-6f8657f26e83)
 
-**请以vs->Base->HPC的顺序进行安装，不能三个同时安装！**
+**请以VS->Base->HPC的顺序进行安装，不能三个同时安装！**
 ## Visual Studio
 
 出现此页面之前可无脑操作
@@ -79,4 +79,35 @@ https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-downl
 
 ![image-9](https://github.com/user-attachments/assets/a347ffcf-6a9f-4a62-b1a5-f0949d978722)
 
+# HelloWorld
 
+**请在所有安装完成后进行此步骤**
+
+* 启动Visual Studio 2022
+
+    ![image-10](https://github.com/user-attachments/assets/c3704231-0c01-46bd-8821-4f7e59c2eb2c)
+
+
+* 进行初始设定，本演示**不登录**
+
+* 创建新项目
+
+    ![image-11](https://github.com/user-attachments/assets/18656a0d-212f-4c26-994f-a6d0c12e37e0)
+
+
+    ![image-12](https://github.com/user-attachments/assets/32b98d3e-4996-440d-8b9b-26e851190843)
+
+
+    ![image-13](https://github.com/user-attachments/assets/b8a4b0ff-3fe2-4120-8b3f-18d21ab9bf8c)
+
+* 运行
+
+    ![image-14](https://github.com/user-attachments/assets/98dfc0c2-0a11-4b62-b348-445cbafb6317)
+
+
+* END
+
+    ![image-15](https://github.com/user-attachments/assets/1be6568d-7cf7-4bae-a904-c843d09cf2a4)
+
+
+**本教程到此结束**
