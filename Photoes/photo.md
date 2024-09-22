@@ -25,4 +25,7 @@
 ![image](https://github.com/Pfolg/CLSS_1022/assets/166471137/22786ffa-1c7e-49d6-9340-06d4dcb7df7c)
 2024年7月24日18:16:25
 ![旅行](https://github.com/user-attachments/assets/06cd01a6-f597-4411-bf32-d1a3a5f21a6b)
+默认Python无终端程序
+![image](https://github.com/user-attachments/assets/9cf824b1-297e-4e3f-b197-6710883816bf)
+
 
