@@ -28,4 +28,11 @@
 默认Python无终端程序
 ![image](https://github.com/user-attachments/assets/9cf824b1-297e-4e3f-b197-6710883816bf)
 
+vscode背景更改
+![image](https://github.com/user-attachments/assets/8fec340b-ff7c-441b-8040-6ca534e8bf7e)
+![image-1](https://github.com/user-attachments/assets/c54a68b8-32a4-4a2d-964a-7c9db6d52688)
+![image-2](https://github.com/user-attachments/assets/019b192b-4d83-4516-837a-b5f07c2a75ac)
+![image-3](https://github.com/user-attachments/assets/d8b3b593-25e0-4279-ad65-af0fc940f453)
+
+
 
