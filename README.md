@@ -1,6 +1,7 @@
 自嘲的话：这是一个直到世界毁灭都不一定有外人访问的仓库，因为它及其无聊！
 
 attention：这不是某个软件或项目的专用仓库，而是我用来放杂项的仓库，你不一定能在这里找到有用的东西。
+  It's not a repository for a software or project, it's a repository that I use for miscellaneous items, and you won't necessarily find something useful here.
 
 **Quick Facts Release**
 
