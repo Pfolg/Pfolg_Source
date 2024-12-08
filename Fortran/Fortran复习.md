@@ -1,4 +1,4 @@
-![PixPin_2024-12-08_14-10-02](https://github.com/user-attachments/assets/f03b0a2e-45d2-4a59-9708-0e86844b4524)[title]:Fortran复习资料
+[title]:Fortran复习资料
 [time]:2024年12月7日
 [author]:pfolg@foxmail.com
 
