@@ -1,0 +1,7 @@
+D:\CSharp_Project\Study\SecondCsharpEnter\4_集合\bin\Debug\4_集合.exe.config
+D:\CSharp_Project\Study\SecondCsharpEnter\4_集合\bin\Debug\4_集合.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\4_集合\bin\Debug\4_集合.pdb
+D:\CSharp_Project\Study\SecondCsharpEnter\4_集合\obj\Debug\4_集合.csproj.AssemblyReference.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\4_集合\obj\Debug\4_集合.csproj.CoreCompileInputs.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\4_集合\obj\Debug\4_集合.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\4_集合\obj\Debug\4_集合.pdb

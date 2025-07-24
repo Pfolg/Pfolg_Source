@@ -1,0 +1,14 @@
+D:\CSharp_Project\Study\SecondCsharpEnter\6_案例\bin\Debug\6_案例.exe.config
+D:\CSharp_Project\Study\SecondCsharpEnter\6_案例\bin\Debug\6_案例.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\6_案例\bin\Debug\6_案例.pdb
+D:\CSharp_Project\Study\SecondCsharpEnter\6_案例\obj\Debug\6_案例.csproj.AssemblyReference.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\6_案例\obj\Debug\6_案例.csproj.CoreCompileInputs.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\6_案例\obj\Debug\6_案例.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\6_案例\obj\Debug\6_案例.pdb
+\\vmware-host\Shared Folders\Programing\CSharp_Project\Study\SecondCsharpEnter\6_案例\bin\Debug\6_案例.exe.config
+\\vmware-host\Shared Folders\Programing\CSharp_Project\Study\SecondCsharpEnter\6_案例\bin\Debug\6_案例.exe
+\\vmware-host\Shared Folders\Programing\CSharp_Project\Study\SecondCsharpEnter\6_案例\bin\Debug\6_案例.pdb
+\\vmware-host\Shared Folders\Programing\CSharp_Project\Study\SecondCsharpEnter\6_案例\obj\Debug\6_案例.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Programing\CSharp_Project\Study\SecondCsharpEnter\6_案例\obj\Debug\6_案例.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Programing\CSharp_Project\Study\SecondCsharpEnter\6_案例\obj\Debug\6_案例.exe
+\\vmware-host\Shared Folders\Programing\CSharp_Project\Study\SecondCsharpEnter\6_案例\obj\Debug\6_案例.pdb

@@ -1,0 +1,7 @@
+D:\CSharp_Project\Study\SecondCsharpEnter\水果店案例\bin\Debug\水果店案例.exe.config
+D:\CSharp_Project\Study\SecondCsharpEnter\水果店案例\bin\Debug\水果店案例.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\水果店案例\bin\Debug\水果店案例.pdb
+D:\CSharp_Project\Study\SecondCsharpEnter\水果店案例\obj\Debug\1水果店案例.csproj.AssemblyReference.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\水果店案例\obj\Debug\1水果店案例.csproj.CoreCompileInputs.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\水果店案例\obj\Debug\水果店案例.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\水果店案例\obj\Debug\水果店案例.pdb

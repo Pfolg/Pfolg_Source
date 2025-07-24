@@ -1,0 +1,7 @@
+D:\CSharp_Project\Study\SecondCsharpEnter\8_匿名\bin\Debug\8_匿名.exe.config
+D:\CSharp_Project\Study\SecondCsharpEnter\8_匿名\bin\Debug\8_匿名.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\8_匿名\bin\Debug\8_匿名.pdb
+D:\CSharp_Project\Study\SecondCsharpEnter\8_匿名\obj\Debug\8_匿名.csproj.AssemblyReference.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\8_匿名\obj\Debug\8_匿名.csproj.CoreCompileInputs.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\8_匿名\obj\Debug\8_匿名.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\8_匿名\obj\Debug\8_匿名.pdb

@@ -1,0 +1,7 @@
+D:\CSharp_Project\Study\SecondCsharpEnter\2_运算符\bin\Debug\2_运算符.exe.config
+D:\CSharp_Project\Study\SecondCsharpEnter\2_运算符\bin\Debug\2_运算符.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\2_运算符\bin\Debug\2_运算符.pdb
+D:\CSharp_Project\Study\SecondCsharpEnter\2_运算符\obj\Debug\2_运算符.csproj.AssemblyReference.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\2_运算符\obj\Debug\2_运算符.csproj.CoreCompileInputs.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\2_运算符\obj\Debug\2_运算符.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\2_运算符\obj\Debug\2_运算符.pdb

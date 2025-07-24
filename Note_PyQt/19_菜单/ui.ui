@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="toolTip">
+   <string>文件</string>
+  </property>
+  <property name="toolButtonStyle">
+   <enum>Qt::ToolButtonTextBesideIcon</enum>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="toolTip">
+     <string>文件</string>
+    </property>
+    <property name="title">
+     <string>文件</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/folder-closed.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/folder-closed.svg</iconset>
+    </property>
+    <property name="separatorsCollapsible">
+     <bool>false</bool>
+    </property>
+    <property name="toolTipsVisible">
+     <bool>false</bool>
+    </property>
+    <addaction name="action_2"/>
+    <addaction name="action"/>
+    <addaction name="separator"/>
+    <addaction name="action_3"/>
+    <addaction name="action_4"/>
+   </widget>
+   <addaction name="menuFile"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionOpen">
+   <property name="text">
+    <string>Open</string>
+   </property>
+  </action>
+  <action name="actionOpen_File">
+   <property name="text">
+    <string>Open File</string>
+   </property>
+  </action>
+  <action name="action">
+   <property name="icon">
+    <iconset>
+     <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/file.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/file.svg</iconset>
+   </property>
+   <property name="text">
+    <string>打开文件</string>
+   </property>
+  </action>
+  <action name="action_2">
+   <property name="icon">
+    <iconset>
+     <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/folder.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/folder.svg</iconset>
+   </property>
+   <property name="text">
+    <string>打开文件夹</string>
+   </property>
+  </action>
+  <action name="action_3">
+   <property name="icon">
+    <iconset>
+     <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/floppy-disk.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/floppy-disk.svg</iconset>
+   </property>
+   <property name="text">
+    <string>保存</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
+  </action>
+  <action name="action_4">
+   <property name="icon">
+    <iconset>
+     <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/floppy-disk.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/floppy-disk.svg</iconset>
+   </property>
+   <property name="text">
+    <string>另存为</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

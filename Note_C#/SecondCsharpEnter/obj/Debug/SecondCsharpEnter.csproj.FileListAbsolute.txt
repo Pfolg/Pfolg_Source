@@ -1,0 +1,7 @@
+D:\CSharp_Project\Study\SecondCsharpEnter\SecondCsharpEnter\bin\Debug\SecondCsharpEnter.exe.config
+D:\CSharp_Project\Study\SecondCsharpEnter\SecondCsharpEnter\bin\Debug\SecondCsharpEnter.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\SecondCsharpEnter\bin\Debug\SecondCsharpEnter.pdb
+D:\CSharp_Project\Study\SecondCsharpEnter\SecondCsharpEnter\obj\Debug\SecondCsharpEnter.csproj.AssemblyReference.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\SecondCsharpEnter\obj\Debug\SecondCsharpEnter.csproj.CoreCompileInputs.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\SecondCsharpEnter\obj\Debug\SecondCsharpEnter.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\SecondCsharpEnter\obj\Debug\SecondCsharpEnter.pdb

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>175</width>
+    <height>386</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QToolBox" name="toolBox">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>8</y>
+     <width>151</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <property name="currentIndex">
+    <number>0</number>
+   </property>
+   <widget class="QWidget" name="page">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>151</width>
+      <height>241</height>
+     </rect>
+    </property>
+    <attribute name="icon">
+     <iconset>
+      <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/chess-bishop.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/chess-bishop.svg</iconset>
+    </attribute>
+    <attribute name="label">
+     <string>部落冲突</string>
+    </attribute>
+    <widget class="QToolButton" name="toolButton">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>10</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>张三</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="iconSize">
+      <size>
+       <width>20</width>
+       <height>20</height>
+      </size>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QToolButton" name="toolButton_2">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>110</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>王五</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QToolButton" name="toolButton_3">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>60</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>李四</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="page_3">
+    <attribute name="icon">
+     <iconset>
+      <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/chess-king.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/chess-king.svg</iconset>
+    </attribute>
+    <attribute name="label">
+     <string>PUBG</string>
+    </attribute>
+    <widget class="QToolButton" name="toolButton_4">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>10</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Alice</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QToolButton" name="toolButton_5">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>60</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Tom</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QToolButton" name="toolButton_6">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>110</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Jack</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="page_4">
+    <attribute name="icon">
+     <iconset>
+      <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/chess-knight.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/chess-knight.svg</iconset>
+    </attribute>
+    <attribute name="label">
+     <string>Count Strick</string>
+    </attribute>
+    <widget class="QToolButton" name="toolButton_7">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>10</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>沈哥</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QToolButton" name="toolButton_8">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>60</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>李哥</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="page_2">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>151</width>
+      <height>241</height>
+     </rect>
+    </property>
+    <attribute name="icon">
+     <iconset>
+      <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/chess-pawn.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/chess-pawn.svg</iconset>
+    </attribute>
+    <attribute name="label">
+     <string>虚拟桌宠模拟器</string>
+    </attribute>
+    <widget class="QToolButton" name="toolButton_9">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>20</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>张三</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QToolButton" name="toolButton_10">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>70</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>老王</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QToolButton" name="toolButton_11">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>130</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>小黑</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</normaloff>../../../../Users/21460/Pictures/fontawesome-free-6.7.2-desktop/svgs/regular/circle-user.svg</iconset>
+     </property>
+     <property name="toolButtonStyle">
+      <enum>Qt::ToolButtonTextBesideIcon</enum>
+     </property>
+     <property name="autoRaise">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

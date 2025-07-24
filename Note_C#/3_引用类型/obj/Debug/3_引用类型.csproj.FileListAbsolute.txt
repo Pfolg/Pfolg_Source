@@ -1,0 +1,7 @@
+D:\CSharp_Project\Study\SecondCsharpEnter\3_引用类型\bin\Debug\3_引用类型.exe.config
+D:\CSharp_Project\Study\SecondCsharpEnter\3_引用类型\bin\Debug\3_引用类型.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\3_引用类型\bin\Debug\3_引用类型.pdb
+D:\CSharp_Project\Study\SecondCsharpEnter\3_引用类型\obj\Debug\3_引用类型.csproj.AssemblyReference.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\3_引用类型\obj\Debug\3_引用类型.csproj.CoreCompileInputs.cache
+D:\CSharp_Project\Study\SecondCsharpEnter\3_引用类型\obj\Debug\3_引用类型.exe
+D:\CSharp_Project\Study\SecondCsharpEnter\3_引用类型\obj\Debug\3_引用类型.pdb
